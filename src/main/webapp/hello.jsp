@@ -15,5 +15,7 @@ This template project consists of:
 <li>A JSP page that renders the views with <code>template.tag</code> template file and <code>layout.css</code>
 </ul>
 This world start to show difference.
+
+<h3>now more changes coming </h3>
 </jsp:body>
 </tags:template>
