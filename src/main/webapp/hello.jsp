@@ -14,5 +14,6 @@ This template project consists of:
 <li>A simple <code>HelloServlet</code> class that shows this page</li> 
 <li>A JSP page that renders the views with <code>template.tag</code> template file and <code>layout.css</code>
 </ul>
+This world start to show difference.
 </jsp:body>
 </tags:template>
